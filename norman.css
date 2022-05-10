@@ -1,0 +1,35 @@
+body {
+    background-color: #D3D3D3;
+  /*   margin: 20px; */
+    font-family: lobster, monospace;
+    line-height: 2.0;
+    font-size: 100%;
+    text-align: center;
+  }
+  #image {
+    display: block;
+    width: 80%;
+    max-width: 100%;
+    margin: 0 auto;
+   }
+  #img-div {
+    background-color: white;
+  }
+  #order {
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 150px;
+  }
+  blockquote {
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 150px;
+  }
+  /* a:visited {
+    color: red;
+  } */
+  a:hover {
+    color: red;
+    cursor: pointer;
+    
+  }
